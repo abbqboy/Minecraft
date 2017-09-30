@@ -11,4 +11,5 @@
 * Wechat     :zzydcyy
 
 # Have fun!
-![fun](
+![fun](https://github.com/abbqboy/Minecraft/blob/master/photo/have%20fun.jpg?raw=true)
+![bbq](https://github.com/abbqboy/Minecraft/blob/master/photo/1111.jpg?raw=true)
