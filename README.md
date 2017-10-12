@@ -16,3 +16,5 @@
 # Have fun!
 ![fun](https://github.com/abbqboy/Minecraft/blob/master/photo/have%20fun.jpg?raw=true)
 ![bbq](https://github.com/abbqboy/Minecraft/blob/master/photo/1111.jpg?raw=true)
+
+这是一个在浑南苞米地BBQ现在却穿着短袖的男孩
