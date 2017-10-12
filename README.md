@@ -8,8 +8,8 @@
 * Image Processing
 
 #Where to find me
-* Email      :chinaneuzzy@gmail.com
-* CSDN       :(http://my.csdn.net/qq_37350534)
+* Email      :chinaneuzzy@gmail.com  hzauzzy@gmail.com
+* CSDN       :(http://my.csdn.net/qq_37350534)
 * Wechat     :zzydcyy
 * 深度学习交流群 ：582886286
 
